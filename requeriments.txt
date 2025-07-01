@@ -1,7 +1,8 @@
-streamlit==1.30.0
-beautifulsoup4==4.12.2
-google==3.0.0
-python-dotenv==1.0.0
-pandas==2.0.3
-requests==2.31.0
-matplotlib==3.7.1
+beautifulsoup4
+streamlit
+google
+python-dotenv
+pandas
+requests
+matplotlib
+# Forzando reinicio
